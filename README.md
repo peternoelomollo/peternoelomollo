@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @peternoelomollo
-- 👀 I’m interested in ...ALL MATTERS PROBRAMING
-- 🌱 I’m currently learning ...HTML
-- 💞️ I’m looking to collaborate on ...front end programs
+- 👀 I’m interested in ...ALL MATTERS PROGRAMING
+- 🌱 I’m currently learning ...Flutter
+- 💞️ I’m looking to collaborate on ...opensource
 - 📫 How to reach me ...0113323000
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...i like ferrets
 
 <!---
 peternoelomollo/peternoelomollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
