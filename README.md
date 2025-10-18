@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peternoelomollo
 - 👀 I’m interested in ...ALL MATTERS PROGRAMING
-- 🌱 I’m currently learning ...Flutter
+- 🌱 I’m currently developing with  ...Flutter Laravel etc
 - 💞️ I’m looking to collaborate on ...opensource
 - 📫 How to reach me ...0113323000
 - 😄 Pronouns: ...
